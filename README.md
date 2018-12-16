@@ -1,9 +1,5 @@
 # Neues Fan-Forum auf der Knicks-Fanpage
 
-> Once a Knick, Always a Knick!
-
-![Knicks-Logo Round Version](https://github.com/andreasganz/bwd_5100-1_andreas_ganz/blob/master/pictures/logos/favicon_newyorkknicks_round_rgb.png)
-
 ## Einleitung/Motivation
 Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sämtliche deutschsprachigen Fans der New York Knicks sich über eine Plattform über die wichtigsten Neuigkeiten ihres Lieblings-Teams informieren und austauschen können.
 
@@ -75,3 +71,7 @@ Vielen Dank an Theres Harker und René Esposito für die spannende Einführung i
 
 ## Copyright
 © Andreas Ganz, Dezember 2018
+
+> Once a Knick, Always a Knick!
+
+![Knicks-Logo Round Version](https://github.com/andreasganz/bwd_5100-1_andreas_ganz/blob/master/pictures/logos/favicon_newyorkknicks_round_rgb.png)
