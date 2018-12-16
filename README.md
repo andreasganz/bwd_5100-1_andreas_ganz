@@ -38,8 +38,6 @@ Der Admin-Bereich wird über die Login-Maske resp. in der folgenden Dashboard-An
 Admin-Login: *BallerBrand1990*  
 Admin-Passwort: *DurantForTheWin2019*
 
-![Der Admin-Bereich:](https://github.com/andreasganz/bwd_5100-1_andreas_ganz/blob/master/pictures/screenshot_admin-bereich.png)
-
 ## Mitarbeitende
 Projekt-Verantwortlicher: Andreas Ganz, <andreas.ganz@hotmail.com>
 
