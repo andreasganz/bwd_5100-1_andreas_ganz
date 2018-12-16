@@ -6,7 +6,7 @@ Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sich sämt
 ## Projekt-Beschrieb
 Jeder User, der die Fan-Page besucht, hat die Möglichkeit die neue Fan-Forum-Seite einzusehen. Diese kann über den entsprechenden Reiter in der Menuleiste oder das animierte Banner auf der Home-Seite erreicht werden.
 * Um einen Artikel verfassen oder editieren zu können, muss sich der User erst registrieren bzw. anschliessend einloggen.
-* Wenn jemand einen Artikel löschen möchte oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.  
+* Wenn jemand einen Artikel löschen möchte oder diesen unangebracht findet, kann er dies über das Kontakt-Formular beim Seitenbetreiber melden.  
 * Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks.  
 Alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
 
