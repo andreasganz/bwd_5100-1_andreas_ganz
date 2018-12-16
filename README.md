@@ -18,7 +18,7 @@ Jeder User, der die Seite besucht, hat die Möglichkeit, die aktuellsten News au
 
 ## Design-Guidelines
 Die Gestaltung des Fan-Forums ist aufgrund der News-Auflistung einer Zeitung nachempfunden.
-* Hierbei werden horizontale Linien als Unterteilung verwendet, die bisher beispielsweise auch schon in den Headlines vorkamen.
+* Hierbei werden horizontale Linien als Unterteilung eingesetzt, die bisher beispielsweise auch schon in den Headlines vorkamen und in der gleichen Art in Zeitungen verwendet werden.
 * Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet
 * Die Farbgebung beschränkt sich auf Schwarz- und Grautöne für den Text sowie dem Blau bzw. Orange aus dem Logo für Auszeichnungen.
 
