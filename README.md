@@ -16,4 +16,5 @@ Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfasst
 * Ein Eintrag hat nichts mit der Mannschaft, der Arena oder der Fan-Gemeinschaft zu tun
 
 Admin-Login: BallerBrand1990
+
 Admin-Passwort: DurantForTheWin2019
