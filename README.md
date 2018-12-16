@@ -5,11 +5,13 @@
 ![Knicks-Logo Round Version](https://github.com/andreasganz/bwd_5100-1_andreas_ganz/blob/master/pictures/logos/favicon_newyorkknicks_round_rgb.png)
 
 ## Einleitung/Motivation
-Die Idee hinter dem Fan-Forum-Projekt und dem damit verbundenen CMS war, dass sämtliche deutschsprachigen Fans der New York Knicks sich über eine Plattform über die wichtigsten News ihres Lieblingteams informieren und austauschen können.
+Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sämtliche deutschsprachigen Fans der New York Knicks sich über eine Plattform über die wichtigsten Neuigkeiten ihres Lieblings-Teams informieren und austauschen können.
 
 ## Projektbeschrieb
-Jeder User, der die Seite besucht, hat die Möglichkeit, die aktuellsten News auf der Fan-Forum-Seite einzusehen. Um einen Artikel verfassen oder editieren zu können, muss sich der User einloggen. Wenn jemand einen Artikel löschen möchte, oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.  
-Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks, alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
+Jeder User, der die Seite besucht, hat die Möglichkeit die aktuellen News auf der Fan-Forum-Seite einzusehen.
+* Um einen Artikel verfassen oder editieren zu können, muss sich der User erst registrieren bzw. anschliessend einloggen.
+* Wenn jemand einen Artikel löschen möchte, oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.  
+* Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks, alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
 
 ## Verwendete Programme/Bibliotheken/Frameworks
 * Der verwendete Text-Editor bei diesem Projekt ist [Atom](https://atom.io/ "Link zu atom.io").  
