@@ -11,10 +11,10 @@ Die Idee hinter dem Fan-Forum-Projekt und dem damit verbundenen CMS war, dass s�
 Jeder User, der die Seite besucht, hat die Möglichkeit, die aktuellsten News auf der Fan-Forum-Seite einzusehen. Um einen Artikel verfassen oder editieren zu können, muss sich der User einloggen. Wenn jemand einen Artikel löschen möchte, oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.
 
 ## Verwendete Programme/Bibliotheken/Frameworks
-Der verwendete Text-Editor bei diesem Projekt ist [Atom](https://atom.io/ "Link zu atom.io").  
-Als lokale Entwicklungsumgebung wurde [MAMP](https://www.mamp.info/de/ "Link zu mamp.info") gewählt.
-Für die Icons im Footer wurde die Bibliothek von [Font Awesome](https://fontawesome.com/ "Link zu fontawesome.com") verwendet.  
-Frameworks wurden für dieses Projekt keine verwendet, da sich das CMS nahtlos in das Layout der restlichen Seite einfügen sollte, es wurde also nur eigener Code verwendet.
+* Der verwendete Text-Editor bei diesem Projekt ist [Atom](https://atom.io/ "Link zu atom.io").  
+* Als lokale Entwicklungsumgebung wurde [MAMP](https://www.mamp.info/de/ "Link zu mamp.info") gewählt.
+* Für die Icons im Footer wurde die Bibliothek von [Font Awesome](https://fontawesome.com/ "Link zu fontawesome.com") verwendet.  
+* Frameworks wurden für dieses Projekt keine verwendet, da sich das CMS nahtlos in das Layout der restlichen Seite einfügen sollte, es wurde also nur eigener Code verwendet.
 
 ## Admin
 Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfassten Einträge zu löschen. Dies kann aus folgenden Gründen geschehen:
