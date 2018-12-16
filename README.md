@@ -1,4 +1,4 @@
-# Neues CMS fürs Fan-Forum auf der Knicks-Fanpage
+# Neues Fan-Forum auf der Knicks-Fanpage
 
 > Once a Knick, Always a Knick!
 
