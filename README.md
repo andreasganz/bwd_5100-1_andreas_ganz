@@ -25,3 +25,9 @@ Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfasst
 
 Admin-Login: *BallerBrand1990*  
 Admin-Passwort: *DurantForTheWin2019*
+
+## Mitarbeitende/Credits
+Projekt-Verantwortlicher: Andreas Ganz, <andreas.ganz@hotmail.com>
+
+## License & copyright
+© Andreas Ganz, Dezember 2018
