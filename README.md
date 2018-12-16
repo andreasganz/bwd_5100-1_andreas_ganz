@@ -16,6 +16,12 @@ Jeder User, der die Seite besucht, hat die Möglichkeit, die aktuellsten News au
 * Für die Icons im Footer wurde die Bibliothek von [Font Awesome](https://fontawesome.com/ "Link zu fontawesome.com") verwendet.  
 * Frameworks wurden für dieses Projekt keine verwendet, da sich das CMS nahtlos in das Layout der restlichen Seite einfügen sollte, es wurde also nur eigener Code verwendet.
 
+## Design-Guidelines
+Die Gestaltung des Fan-Forums ist aufgrund der News-Auflistung einer Zeitung nachempfunden.
+* Hierbei werden horizontale Linien als Unterteilung verwendet, die bisher beispielsweise auch schon in den Headlines vorkamen.
+* Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet
+* Die Farbgebung beschränkt sich auf Schwarz- und Grautöne für den Text sowie dem Blau bzw. Orange aus dem Logo für Auszeichnungen.
+
 ## Admin
 Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfassten Einträge zu löschen. Dies kann aus folgenden Gründen geschehen:
 * Ein User/der Admin möchte seinen Eintrag gerne löschen
@@ -26,8 +32,11 @@ Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfasst
 Admin-Login: *BallerBrand1990*  
 Admin-Passwort: *DurantForTheWin2019*
 
-## Mitarbeitende/Credits
+## Mitarbeitende
 Projekt-Verantwortlicher: Andreas Ganz, <andreas.ganz@hotmail.com>
 
-## License & copyright
+## Credits
+Vielen Dank an Theres Harker und René Esposito für die spannende Einführung in den PHP-Bereich!
+
+## License & Copyright
 © Andreas Ganz, Dezember 2018
