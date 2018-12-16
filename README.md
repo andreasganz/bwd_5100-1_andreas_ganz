@@ -20,7 +20,7 @@ XXXXXXXX
 ### Erstellen eines Artikels
 1. Nach erfolgreichem Login wird im Dashboard der Reiter «Neuen Eintrag erstellen» angewählt.
 2. Die folgende Maske wird ausgefüllt:
-  * Headline, Copy und Bild sind obligatorisch
+- Headline, Copy und Bild sind obligatorisch
   * Die Autoren-Angabe ist vorerst optional
 3. Mit einem Klick auf «Hochladen» wird der Artikel in die Datenbank gespeichert und ist auf dem Fan-Forum ersichtlich.
 
