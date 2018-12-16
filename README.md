@@ -16,7 +16,7 @@ Alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebra
 
 ## Projekt-Struktur
 Die Knicks-Fanpage besteht aus eine Frontend-Bereich (alle Seiten, die über die Menuleiste bzw. die Sitemap erreicht werden können) und einem Backend, welches nur für registrierte User bzw. den Admin sichtbar ist und nur über eine Login-Maske erreicht werden kann. Die Bereiche sind wie folgt gegliedert;  
-**Frontend:** Home-Bereich, Sitemap, Geschichte, Team (inkl. Roster und Statistiken), Arena, Links, Fan-Forum, Kontakt und Ansicht der Login-/Registrations-Maske.
+**Frontend:** Home-Bereich, Sitemap, Geschichte, Team (inkl. Roster und Statistiken), Arena, Links, Fan-Forum, Kontakt und Ansicht der Login-/Registrations-Maske.  
 **Backend:** Upload-, Edit- und Admin-Form, CMS-Dashboard, Login- und Registrations-Bereich, inkl. sämtlicher Validerungs-Files, Präferenzen und Sicherheits-Skripte.
 
 ## Nutzung der CMS-Oberfläche
