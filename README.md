@@ -14,7 +14,7 @@ Jeder User, der die Seite besucht, hat die Möglichkeit die aktuellen News auf d
 * Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks. Alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
 
 ## Projekt-Struktur
-XXXXXXXX
+Die Knicks-Fanpage besteht aus eine Frontend-Bereich (alle Seiten, die über die Menuleiste bzw. die Sitemap erreicht werden können) und einem Backend, welches nur für registrierte User sichtbar ist und nur über eine Login-Maske erreicht werden kann.
 
 ## Nutzung der CMS-Oberfläche
 ### Erstellen eines Artikels
