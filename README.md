@@ -20,17 +20,17 @@ XXXXXXXX
 ### Erstellen eines Artikels
 1. Nach erfolgreichem Login wird im Dashboard der Reiter «Neuen Eintrag erstellen» angewählt.
 2. Die folgende Maske wird ausgefüllt:
-⋅⋅* Headline, Copy und Bild sind obligatorisch
-⋅⋅* Die Autoren-Angabe ist vorerst optional
+  * Headline, Copy und Bild sind obligatorisch
+  * Die Autoren-Angabe ist vorerst optional
 3. Mit einem Klick auf «Hochladen» wird der Artikel in die Datenbank gespeichert und ist auf dem Fan-Forum ersichtlich.
 
 ### Editieren eines Artikels
 1. Im Dashboard wird der Reiter «Einträge bearbeiten» angewählt.
 2. Der gewünschte Artikel wird ausgewählt mit einem Klick auf «Eintrag bearbeiten» unterhalb des Artikels.
 3. Die folgende Maske wird ausgefüllt:
-⋅⋅* Headline und Copy sind obligatorisch
-⋅⋅* Eine Autoren-Angabe ist nun gegenüber dem erstmaligen Upload ebenfalls obligatorisch, damit der Orginalverfasser sieht, wer seinen Artikel überarbeitet hat.
-⋅⋅* Eine erneute Bild-Wahl ist optional, wird diese nicht gewünscht, kann einfach auf «Updaten» gedrückt werden und das bisher verwendete Bild wird nicht überschrieben
+  * Headline und Copy sind obligatorisch
+  * Eine Autoren-Angabe ist nun gegenüber dem erstmaligen Upload ebenfalls obligatorisch, damit der Orginalverfasser sieht, wer seinen Artikel überarbeitet hat.
+  * Eine erneute Bild-Wahl ist optional, wird diese nicht gewünscht, kann einfach auf «Updaten» gedrückt werden und das bisher verwendete Bild wird nicht überschrieben
 4. Mit einem Klick auf «Updaten» wird der Artikel in der Datenbank aktualisiert und ist wiederum auf dem Fan-Forum ersichtlich.
 
 ### Löschen eines Artikels (Admin-Bereich)
