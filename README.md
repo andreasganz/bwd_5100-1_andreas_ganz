@@ -11,7 +11,7 @@ Die Idee hinter dem Fan-Forum-Projekt und dem damit verbundenen CMS war, dass s�
 Jeder User, der die Seite besucht, hat die Möglichkeit, die aktuellsten News auf der Fan-Forum-Seite einzusehen. Um einen Artikel verfassen oder editieren zu können, muss sich der User einloggen. Wenn jemand einen Artikel löschen möchte, oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.
 
 ## Verwendete Programme/Frameworks
-Der verwendete Text-Editor ist [Atom](https://atom.io "Link zu atom.io" target="_blank").
+Der verwendete Text-Editor ist [Atom](https://atom.io "Link zu atom.io")[newtab].
 
 ## Admin
 Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfassten Einträge zu löschen. Dies kann aus folgenden Gründen geschehen:
