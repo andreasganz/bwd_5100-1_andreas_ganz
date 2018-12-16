@@ -1,0 +1,5 @@
+/* Das Gemeinsame für Desktop und Mobile: */
+@import url(main.css);
+
+/* Formatierungsanlagen angepasst nach Display-Grösse: */
+@import url(desktop.css);
