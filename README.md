@@ -1,7 +1,7 @@
 # Neues Fan-Forum auf der Knicks-Fanpage
 
 ## Einleitung/Motivation
-Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sämtliche deutschsprachigen Fans der New York Knicks sich über eine Plattform über die wichtigsten Neuigkeiten ihres Lieblings-Teams informieren und austauschen können.
+Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sich sämtliche deutschsprachigen Fans der New York Knicks über die wichtigsten Neuigkeiten ihres Lieblings-Teams informieren und austauschen können.
 
 ## Projekt-Beschrieb
 Jeder User, der die Fan-Page besucht, hat die Möglichkeit die neue Fan-Forum-Seite einzusehen. Diese kann über den entsprechenden Reiter in der Menuleiste oder das animierte Banner auf der Home-Seite erreicht werden.
