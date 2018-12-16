@@ -44,9 +44,10 @@ Artikel können nur vom Admin-User gelöscht werden (siehe Abschnitt «Admin-Ber
 ## Design-Guidelines
 Die Gestaltung des Fan-Forums ist aufgrund der News-Auflistung einer Zeitung nachempfunden.
 * Hierbei werden horizontale Linien als Unterteilung eingesetzt, die bisher beispielsweise auch schon in den Headlines vorkamen und in der gleichen Art in Zeitungen verwendet werden.
-* Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet um den User nicht unnötig zu verwirren. Auf spezielle Auszeichnungen in der Copy wird aufgrund der restlichen Informationsflut auf der Seite verzichtet.
+* Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet um den User nicht unnötig zu verwirren.  
+Auf spezielle Auszeichnungen in der Copy wird aufgrund der restlichen Informationsflut auf der Seite verzichtet.
 * Die Farbgebung beschränkt sich auf Schwarz- und Grautöne für den Text sowie dem Blau bzw. Orange aus dem Logo für Auszeichnungen (beispielsweise bei Hover-Effekten).
-* Navigiert wird auf der CMS-Oberfläche mit Buttons in der Menuleiste
+* Navigiert wird auf der CMS-Oberfläche mit Buttons in der Menuleiste, zwecks Usability befindet sich geräteabhängig immer an der gleichen Stelle.
 * Um ein ruhiges und einheitliches Layout garantieren zu können muss bei jedem Eintrag eine Headline, eine Copy und ein Bild bereit gestellt werden. Das Bild lockert das Layout auf, es gibt nicht nur eine langweilige, reine Text-Seite. Auch der User muss sich Gedanken zum Artikel machen und wird nicht einfach so wild drauflosschreiben.
 * Für die Login-, Registrations-, Upload- und Edit-Formulare wurden die gleichen Gestaltungs-Prinzipien wie für das bereits bestehende Kontakt-Formular umgesetzt.
 * Die Fehler-Ausgabe bei der Validierung steht bei allen Formularen zuoberst vor der Eingabe, damit diese schnellstmöglich vom User erfasst und umgesetzt werden können.
