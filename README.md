@@ -70,5 +70,5 @@ Projekt-Verantwortlicher: Andreas Ganz, <andreas.ganz@hotmail.com>
 ## Credits
 Vielen Dank an Theres Harker und René Esposito für die spannende Einführung in den PHP-Bereich!
 
-## License & Copyright
+## Copyright
 © Andreas Ganz, Dezember 2018
