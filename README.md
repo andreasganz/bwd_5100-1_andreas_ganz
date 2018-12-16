@@ -15,6 +15,5 @@ Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfasst
 * Ein Eintrag ist nicht mehr aktuell
 * Ein Eintrag hat nichts mit der Mannschaft, der Arena oder der Fan-Gemeinschaft zu tun
 
-Admin-Login: BallerBrand1990
-
-Admin-Passwort: DurantForTheWin2019
+*Admin-Login:* BallerBrand1990
+*Admin-Passwort:* DurantForTheWin2019
