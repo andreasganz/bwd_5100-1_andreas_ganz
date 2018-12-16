@@ -10,8 +10,8 @@ Die Idee hinter dem Fan-Forum und dem damit verbundenen CMS war, dass sämtliche
 ## Projektbeschrieb
 Jeder User, der die Seite besucht, hat die Möglichkeit die aktuellen News auf der Fan-Forum-Seite einzusehen.
 * Um einen Artikel verfassen oder editieren zu können, muss sich der User erst registrieren bzw. anschliessend einloggen.
-* Wenn jemand einen Artikel löschen möchte, oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.  
-* Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks, alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
+* Wenn jemand einen Artikel löschen möchte oder diesen unangebracht findet, kann er sich über das Kontakt-Formular beim Seitenbetreiber melden.  
+* Das Fan-Forum dient nur zum Austausch der aktuellen News des Basketball-Teams der New York Knicks. Alle Beiträge, die nicht im Zusammenhang mit diesem Thema stehen oder unangebracht sind, werden unverzüglich vom Admin gelöscht.
 
 ## Verwendete Programme/Bibliotheken/Frameworks
 * Der verwendete Text-Editor bei diesem Projekt ist [Atom](https://atom.io/ "Link zu atom.io").  
@@ -22,20 +22,23 @@ Jeder User, der die Seite besucht, hat die Möglichkeit die aktuellen News auf d
 ## Design-Guidelines
 Die Gestaltung des Fan-Forums ist aufgrund der News-Auflistung einer Zeitung nachempfunden.
 * Hierbei werden horizontale Linien als Unterteilung eingesetzt, die bisher beispielsweise auch schon in den Headlines vorkamen und in der gleichen Art in Zeitungen verwendet werden.
-* Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet
+* Es wird nur eine Schriftart in maximal vier Schriftschnitten verwendet um den User nicht unnötig zu verwirren.
 * Die Farbgebung beschränkt sich auf Schwarz- und Grautöne für den Text sowie dem Blau bzw. Orange aus dem Logo für Auszeichnungen.
 * Für die Login-, Registrations-, Upload- und Edit-Formulare wurden die gleichen Gestaltungs-Prinzipien wie für das bereits bestehende Kontakt-Formular umgesetzt.
 * Die Fehler-Ausgabe bei der Validierung steht bei allen Formularen zuoberst vor der Eingabe, damit diese schnellstmöglich vom User erfasst und umgesetzt werden können.
 
-## Admin
+## Admin-Bereich
 Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfassten Einträge zu löschen. Dies kann aus folgenden Gründen geschehen:
 * Ein User/der Admin möchte seinen Eintrag gerne löschen
 * Ein User/der Admin findet einen Eintrag unangebracht
 * Ein Eintrag ist nicht mehr aktuell
 * Ein Eintrag hat nichts mit der Mannschaft, der Arena oder der Fan-Gemeinschaft zu tun
 
+Der Admin-Bereich wird über die Login-Maske resp. in der folgenden Dashboard-Ansicht über den dritten Reiter «Admin-Bereich» mit einem seperaten Login erreicht;  
 Admin-Login: *BallerBrand1990*  
 Admin-Passwort: *DurantForTheWin2019*
+
+![Der Admin-Bereich:](https://github.com/andreasganz/bwd_5100-1_andreas_ganz/blob/master/pictures/screenshot_admin-bereich.png)
 
 ## Mitarbeitende
 Projekt-Verantwortlicher: Andreas Ganz, <andreas.ganz@hotmail.com>
