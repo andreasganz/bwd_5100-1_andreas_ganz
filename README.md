@@ -1,3 +1,3 @@
-# CMS fürs Fan-Forum der Knicks-Fanpage
+# Neues CMS fürs Fan-Forum auf der Knicks-Fanpage
 
 ## Einleitung/Motivation
