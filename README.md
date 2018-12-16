@@ -14,3 +14,5 @@ Der Admin hat im Gegensatz zum registrierten User die Möglichkeit, die verfasst
 * Ein User/der Admin findet einen Eintrag unangebracht
 * Ein Eintrag ist nicht mehr aktuell
 * Ein Eintrag hat nichts mit der Mannschaft, der Arena oder der Fan-Gemeinschaft zu tun
+
+Passwort
